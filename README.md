@@ -6,7 +6,7 @@ Did someone send you a link to this page? They want to help you.
 
 ... when something just isn’t working!
 
-The important thing to remember is that the person (or people) in charge of the broken thing probably think that the thing “works.” That is kind of a vague concept. To help them help you, you need to explain what you were trying to acheive, what you did, what you expected, and what happened instead.
+The important thing to remember is that the person (or people) in charge of the broken thing probably thinks that the thing “works.” But what does it mean to “work?” It’s a vague concept. To help them help you, you need to explain what you were trying to acheive, what you did, what you expected, and what happened instead.
 
 ### Don’t just say “it didn’t work.”
 
@@ -18,7 +18,7 @@ Take screen shots and/or screen recordings (careful to avoid capturing private i
 
 > ** Description **
 >
-> I wanted to [ ...  ], so I [ ... ], but [ ... ] instead.
+> I wanted to [ ...  ], so I [ ... ], but then [ ... ].
 >
 > ** Steps to Reproduce **
 >
