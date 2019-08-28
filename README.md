@@ -2,7 +2,7 @@
 
 Did someone send you a link to this page? They want to help you.
 
-## How to Effectively Request Help
+## How to effectively request help
 
 ... when something just isn’t working!
 
@@ -37,7 +37,7 @@ Take screen shots and/or screen recordings (careful to avoid capturing private i
 
 ### Thank you for being a good error reporter!
 
-When you provide problem reports and/or ask for help using the above technique, with details about what you did and what specifically resulted, you are doing yourself and someone else a big favor. You are saving everybody time that would otherwise be spent asking for more information. You are giving someone something that they can do investigate and fix. You are more likely to get the help you want.
+When you provide problem reports and/or ask for help using the above technique, with details about what you did and what specifically resulted, you are doing yourself and someone else a big favor. You are saving everybody time that would otherwise be spent asking for more information. You have given someone something that is specific enough to be investigated and fixed. You are more likely to get the help you want.
 
 Thank you!
 
