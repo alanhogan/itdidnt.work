@@ -13,15 +13,16 @@ body {
 .main-content blockquote {
   color: inherit;
   background: #dfedf2 none;
-  border-radius: 0.5em;
+  border-radius: 0.25em;
   margin: 0;
   padding: 1.2em;
-  border: 0.1em solid currentColor;
+  border: 0.1em solid #569cb9;
 }
 
 // Un-darken 'maintained by' in footer
 .site-footer-owner {
   color: #606c71;
+  font-weight: 500;
 }
 
 // Hide nearly-pointless skip to content link
