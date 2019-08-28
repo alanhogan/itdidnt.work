@@ -22,7 +22,10 @@ body {
 // Un-darken 'maintained by' in footer
 .site-footer-owner {
   color: #606c71;
-  font-weight: 500;
+  font-weight: 500; // will show as 400 due to missing weights
+}
+.site-footer-credits {
+  color: #606c71;
 }
 
 // Hide nearly-pointless skip to content link
