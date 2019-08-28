@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+// Darken
+body {
+  color: #161a1b; // Darkened from #606c71
+}
+.main-content blockquote {
+  color: #606c71; // The old body color
+}
