@@ -8,6 +8,18 @@
 body {
   color: #161a1b; // Darkened from #606c71
 }
+
+// Re-style blockquote
 .main-content blockquote {
-  color: #606c71; // The old body color
+  color: inherit;
+  background: #dfedf2 none;
+  border-radius: 0.5em;
+  margin: 0;
+  padding: 1.2em;
+  border: 0.1em solid currentColor;
+}
+
+// Un-darken 'maintained by' in footer
+.site-footer-owner {
+  color: #606c71;
 }
