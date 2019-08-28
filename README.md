@@ -14,7 +14,7 @@ Be _very specific_ about what you expected and what happened instead. “It didn
 
 Take screen shots and/or screen recordings (careful to avoid capturing private information), and share this with your error report.
 
-### Use This Template!
+### Use this template!
 
 > ** Description **
 >
