@@ -23,3 +23,8 @@ body {
 .site-footer-owner {
   color: #606c71;
 }
+
+// Hide nearly-pointless skip to content link
+#skip-to-content:not(:focus) {
+  opacity: 0;
+}
