@@ -1,8 +1,6 @@
-# “It didn’t work.”
-
 Did someone send you a link to this page? They want to help you.
 
-## How to effectively request help
+## Use details to request help
 
 ... when something just isn’t working!
 
