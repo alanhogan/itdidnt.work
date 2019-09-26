@@ -8,7 +8,7 @@ The important thing to remember is that the person (or people) in charge of the 
 
 ### Don’t just say “it didn’t work.”
 
-Be _very specific_ about what you expected and what happened instead. “It didn’t work” doesn’t paint a specifc picture. “I got an error message instead” is better, but still vague. Instead, say “An error message appeared in a pop-box. It said, ‘File unprocessable. Error code F004.’ And I was retured to the upload screen.”
+Be _very specific_ about what you expected and what happened instead. “It didn’t work” doesn’t paint a specifc picture. “I got an error message instead” is better, but still vague. Instead, say “An error message appeared in a pop-box. It said, ‘File unprocessable. Error code F004.’ And I was returned to the upload screen.”
 
 Take screen shots and/or screen recordings (careful to avoid capturing private information), and share this with your error report.
 
@@ -16,7 +16,7 @@ Take screen shots and/or screen recordings (careful to avoid capturing private i
 
 > ** Description **
 >
-> I wanted to [ ...  ], so I [ ... ], but then [ ... ].
+> I wanted to [ ... ], so I [ ... ], but then [ ... ].
 >
 > ** Steps to Reproduce **
 >
